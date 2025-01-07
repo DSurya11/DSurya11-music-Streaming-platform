@@ -31,7 +31,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   
+   git clone "https://github.com/DSurya11/DSurya11-music-Streaming-platform.git"
+   cd music-streaming-platform
    ```
 
 2. **Install Backend Dependencies**:
